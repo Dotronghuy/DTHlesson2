@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson2.2-DTH", "lesson2.2-DTH\lesson2.2-DTH.csproj", "{709BA9E9-585E-4BDE-85FE-8309EC4E1F92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{709BA9E9-585E-4BDE-85FE-8309EC4E1F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709BA9E9-585E-4BDE-85FE-8309EC4E1F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709BA9E9-585E-4BDE-85FE-8309EC4E1F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709BA9E9-585E-4BDE-85FE-8309EC4E1F92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {023306B4-8E9B-4D2E-BAC0-9D03AA1657F7}
+	EndGlobalSection
+EndGlobal
